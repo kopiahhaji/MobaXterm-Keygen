@@ -1,7 +1,5 @@
 /**
  * Utility to merge MobaXterm key file with custom settings file
- * This implements the functionality described in Step 4 (Optional)
- * of the README, allowing users to combine a license file with custom settings
  */
 
 /**
