@@ -71,6 +71,7 @@ A modern, user-friendly web tool for generating activation keys and customizing 
 
 ### Step 1: Download MobaXterm
 Download the latest version from the [official MobaXterm website](https://mobaxterm.mobatek.net/download-home-edition.html).
+Download third party plugin here https://download.mobatek.net/sources/
 
 ### Step 2: Generate Your Key & Customization
 Use our tool to:
@@ -134,6 +135,7 @@ This tool is provided for educational purposes only. Please support the develope
 - **v2.1** - Added support for version 25.2
 - **v2.0** - Major UI redesign
 - **v1.0** - Initial release
+
 
 ---
 
